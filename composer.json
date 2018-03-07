@@ -1,0 +1,19 @@
+{
+  "name": "k0nias/units",
+  "authors": [
+    {
+      "name": "Vladimir Zapletal",
+      "email": "vlad.zapletal@gmail.com"
+    }
+  ],
+
+  "require": {
+    "php": ">= 7.1"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "K0nias\\Units\\" : "src/"
+    }
+  }
+}
